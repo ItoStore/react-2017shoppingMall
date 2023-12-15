@@ -33,7 +33,7 @@ class Profile extends Component{
         this.setState({
             isShow:false,pwdShow:false
         });
-    }
+    } 
     render(){
         return (
            <div className="profile">

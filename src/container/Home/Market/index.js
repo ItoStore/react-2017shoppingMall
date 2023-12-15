@@ -33,7 +33,7 @@ this.props.goodAdd(good,name)
                                     </span>
 
                                     </div>
-                                </section>
+                                 </section>
                                 <section className="cx_img">
                                     <a href=''><img src={this.props.advertising[0].imageUrl} alt=""/></a>
                                 </section>

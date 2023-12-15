@@ -29,7 +29,7 @@ export default {
 
             }
         }
-
+ 
     },
     getHotHomeData(){
         return dispatch=>{

@@ -33,7 +33,7 @@ export default {
               })
           })
       }
-    },
+    }, 
     searchByPrice(key){
         return dispatch=>{
             searchData(key).then(data=>{

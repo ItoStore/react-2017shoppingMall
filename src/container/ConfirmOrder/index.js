@@ -12,7 +12,7 @@ class ConfirmOrder extends Component{
         //刚进来页面就要获取到订单信息
         this.name=this.props.session.user.usertel;
         this.props.getPaying(this.name);
-
+ 
     }
     submitOrder=()=>{
         let receiver=this.receiver.value;

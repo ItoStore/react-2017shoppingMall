@@ -19,3 +19,4 @@ export default class Fast extends Component{
         )
     }
 }
+ 

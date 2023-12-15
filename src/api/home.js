@@ -4,4 +4,4 @@ export function fetchHomeData() {
 }
 export function fetchHotHomeData(){
     return  get('/hotSale')
-}
+} 

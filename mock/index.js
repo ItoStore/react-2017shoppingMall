@@ -24,7 +24,7 @@ app.use(function(req,res,next){
     if(req.method === 'OPTIONS'){
         res.end();
     }else{
-        next();
+        next(); 
     }
 });
 app.use(session({

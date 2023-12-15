@@ -33,5 +33,5 @@ class Tab extends Component{
             </nav>
         )
     }
-}
+} 
 export default connect(state=>state.session,actions)(Tab);

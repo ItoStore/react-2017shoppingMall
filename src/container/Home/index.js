@@ -35,7 +35,7 @@ class Home extends Component {
               tab:!prevState.tab
             }))
         }
-
+ 
         // if (e.target.innerText === '全球精选') {
         //     this.setState({
         //         tab: false

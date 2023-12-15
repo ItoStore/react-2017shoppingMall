@@ -21,3 +21,4 @@ export default connect(
     state => state.commodity,//{lesson:0,sliders:[],lessons}
     actions
 )(List)
+ 

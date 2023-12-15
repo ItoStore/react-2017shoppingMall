@@ -37,7 +37,7 @@ export default {
                         payload: shop
                     }
                 );
-            }
+            } 
             delShop(shop, username);
         }
     },

@@ -31,7 +31,7 @@ export default class Global extends Component{
                                     <li>
                                         <img
                                             src="https://img.dmallcdn.com/mIndex/201711/4bf05fec-d46d-41aa-ae8a-34d4192c1f10_240x240H"
-                                            alt=""/>
+                                             alt=""/>
                                         <span>休闲食品</span>
                                     </li>
                                     <li>

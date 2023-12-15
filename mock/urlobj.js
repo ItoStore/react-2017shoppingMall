@@ -22,7 +22,7 @@ htttp.createServer(function (req,res) {
         var cookieObj=querystring.parse(cookie,";");
         console.log(cookieObj);
         res.end(JSON.stringify(cookieObj))
-    }
+    } 
 
 
 

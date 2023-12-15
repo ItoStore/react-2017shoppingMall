@@ -28,7 +28,7 @@ export let goToTop = (ele) => {
     }
     win.scrollTop = duration;
   }, 10)
-};
+}; 
 
 //排序
 export function sortByHot(lists){
