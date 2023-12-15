@@ -32,7 +32,7 @@ import NothingFooter from "../../../components/NothingFooter/index";
         if(id==3){
             get(`/over/${this.name}`,).then(res=>{this.setState({allOrder:res});});
         }
-    }
+    } 
     render(){
         return (
             <div className="order">

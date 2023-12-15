@@ -17,7 +17,7 @@ class Account extends Component{
         let password=this.password.value;
         this.props.login({usertel,password});
     }
-    render(){
+    render(){ 
         return (
             <div>
                 <div className="input">

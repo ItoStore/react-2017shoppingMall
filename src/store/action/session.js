@@ -34,7 +34,7 @@ export default {
             });
         }
     },
-
+  
     //验证用户是否登录
     validate(){
         return dispatch=>{

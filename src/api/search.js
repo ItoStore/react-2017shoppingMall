@@ -7,4 +7,4 @@ export function searchData(key){
         return get('/search')
     }
 
-}
+} 

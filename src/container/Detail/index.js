@@ -22,7 +22,7 @@ let history = createHashHistory();
             <div className="detail">
                 {isShow? <Dialog flag={flag} isShow={isShow} removeFlag={this.props.removeFlag}/>:null}
 
-                <div className="detail_head">
+                 <div className="detail_head">
                     <i className="iconfont icon-houtui" onClick={this.goback}></i>
                     <Link className="iconfont icon-shouye" to="/home"></Link>
                 </div>

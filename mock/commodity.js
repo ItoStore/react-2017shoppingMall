@@ -18,7 +18,7 @@ module.exports = {
             title: '11.17华北物美蔬果特价促销',
             id: 3,
             price: '￥30'
-        },
+        }, 
         {
             url: 'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1511354073577&di=e81469ba6963c677d4901647d7d0c877&imgtype=0&src=http%3A%2F%2Ffile06.16sucai.com%2F2016%2F0516%2Fed96ed353c6d72e85d1bc3e396137e3c.jpg',
             title: '11.17华北物美蔬果特价促销',

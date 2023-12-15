@@ -34,7 +34,7 @@ class PlaceOrder extends Component{
                     <div className="pay-style">
                         <div className="left">
                             <i className="iconfont icon-alipay i1"></i>
-                            <div >
+                            <div > 
                                 <p>支付宝</p>
                                 <p>推荐有支付宝账户的用户使用</p>
                             </div>

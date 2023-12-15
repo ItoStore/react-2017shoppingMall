@@ -23,7 +23,7 @@ export default class ListHeader extends Component{
                         this.setState({
                             title:event.target.innerHTML
                         })
-                    }
+                     }
                     /*if(event.target.className=='close-button'){
                         this.setState({isShowVip:false});
                     }*/

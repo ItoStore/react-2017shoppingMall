@@ -25,7 +25,7 @@ export default class ListBody extends Component{
                     <li>牛奶冰品</li>
                     <li>啤酒饮料</li>
                     <li>休闲小食</li>
-                    <li>母音天地</li>
+                    <li>母音天地</li> 
                     <li>纸品清护</li>
                     <li>美容细化</li>
                     <li>家常用品</li>

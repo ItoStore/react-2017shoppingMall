@@ -24,7 +24,7 @@ npm install es6-promise history react react-dom react-redux react-router-dom rea
 ```
 - es6-promise 在低版本浏览器上兼容promise
 - history 操作历史
-- react react核心库
+- react react核心库 
 - react-dom DOM操作相关的库
 - react-redux 把react和redux连接起来的库
 - react-router-dom react路由库

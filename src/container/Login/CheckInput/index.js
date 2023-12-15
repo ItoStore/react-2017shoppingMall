@@ -12,3 +12,4 @@ export default class CheckInput extends Component{
         )
     }
 }
+ 

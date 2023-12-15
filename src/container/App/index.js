@@ -24,7 +24,7 @@ import './index.less';
 import Detailvip from "../Vip/detail/index";
 import Todo from "../Vip/todo/index";
 export default class App extends Component{
-    render(){
+    render(){ 
         return (
             <ConnectedRouter history={history}>
                 <div style={{height:'100%'}}>

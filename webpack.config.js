@@ -24,7 +24,7 @@ module.exports = {
         test: /\.(jpg|png|gif|svg)$/,
         use: 'url-loader'
       }
-    ]
+    ] 
   },
   //在出错的时候可以提示具体源文件的代码行数，而非bundle.js行数
   devtool: 'cheap-module-source-map',

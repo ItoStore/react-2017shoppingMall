@@ -4,7 +4,7 @@
     "hasMore": true,
     "pageModules": [
       {
-        "dataList": [
+        "dataList": [ 
           {
             "brandId": 0,
             "dataType": 5,

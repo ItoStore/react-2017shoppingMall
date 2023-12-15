@@ -20,4 +20,4 @@ export function fetchLoginout() {
 export function fetchUpdatePwd(data) {
     return post('/reset',data)
 
-}
+} 

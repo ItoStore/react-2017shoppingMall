@@ -16,4 +16,4 @@ export function delShop(data,username) {
 }
 export function delGroupShop(data,username) {
     return del('/deleteProduct/'+username,data)
-}
+} 
